@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+}
+
+header{
+    width: 1440px;
+    height: 104px;
+    background-color: #3C096C;
+}
+
+.house{
+    width: 44px;
+    height: 44px;
+    margin-top: 42px;
+    margin-left: 63px;
+    float: left;
+}
+
+.Archi{
+    float: left;
+    width: 222px;
+    height: 48px;
+    margin-top: 49px;
+    margin-left: 53px;
+    color: #FFFFFF;
+    line-height: 48px;
+    font-size: 40px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.scontain{
+    float: left;
+    width: 479px;
+    height: 63px;
+    margin-top: 23px;
+    margin-left: 41px;
+    border-radius: 28px;
+    background-color: #D9D9D9;
+}
+
+.content{
+    background-color: #D9D9D9;
+    border: 0px;
+}
+
+.cart{
+    width: 58px;
+    height: 58px;
+    margin: 23px;
+    margin-left: 43px;
+    float: left;
+}
+
+.login{
+    float: left;
+    width: 137px;
+    height: 65px;
+    margin-top: 21px;
+    margin-left: 23px;
+    border: 2px solid #FFFFFF;
+    padding: 10px 25px;
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 400;
+    font-size: 29px;
+    line-height: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.login a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.sign{
+    float: left;
+    width: 134px;
+    height: 65px;
+    margin-top: 22px;
+    margin-left:23px;
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 400;
+    font-size: 29px;
+    line-height: 45px;
+    font-family: brico;
+    background-color: #FFFFFF;   
+}
+
+.sign a{
+    text-decoration: none;
+    color: #3C096C;
+}
+
+.hamburger{
+    margin-top: 37px;
+    width: 48px;
+    height: 48px;
+    float: left;
+    margin-left: 23px;
+}
+
+.arcimg{
+    width: 1634px;
+    height: 943px;
+    float: left;
+    border: 7px solid pink;
+}
+
+.note{
+    width: 667px;
+    height: 251px;
+    font-weight: 400;
+    font-size: 64px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 52px;
+    margin-top: 50px;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 0;
+}
+
+.learn{
+    width: 644px;
+    height: 86px;
+    margin-top: 533px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 47px;
+    padding: 10px;
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+}
+
+
+
+
+
